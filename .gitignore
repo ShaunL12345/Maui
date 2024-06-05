@@ -1,4 +1,4 @@
 Haulage/bin/
 Haulage/obj/
-Haulage\%ANDROID_HOME%
-Haulage\%JAVA_HOME%
+Haulage\%ANDROID_HOME%/
+Haulage\%JAVA_HOME%/
